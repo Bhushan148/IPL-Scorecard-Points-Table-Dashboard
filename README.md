@@ -1,6 +1,9 @@
 # 📊 IPL Scorecard/Points Table Dashboard
 
-**Tools:** Power BI, API (Rapid API)
+## 🛠 Tools Used
+- **Power BI**
+- **API (Rapid API)**
+- **Figma (For Background Design)**
 
 ## 📝 Project Description
 
