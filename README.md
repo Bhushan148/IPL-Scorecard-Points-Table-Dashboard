@@ -92,9 +92,12 @@ The project is currently paused due to the need for a paid API version to access
 
 Here are some snapshots of the dashboard:
 
-![Dashboard Overview](link-to-image-1)
-![Points Table](link-to-image-2)
-![Player Information Tooltip](link-to-image-3)
+![Dashboard Page 1](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard/blob/main/Other%20Resource/Page%201.png)
+
+![Dashboard Page 2](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard/blob/main/Other%20Resource/Page2.png)
+
+![Dashboard Page 3](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard/blob/main/Other%20Resource/Page%203.png)
+
 
 ## 🔚 Conclusion
 
