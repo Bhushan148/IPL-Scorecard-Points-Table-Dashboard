@@ -36,8 +36,8 @@ I first discovered this project idea on YouTube, which inspired me to create my 
 
 ## 🧩 Project Materials
 
-- **API Link**: [Cricbuzz Cricket API](https://rapidapi.com/cricbuzz-cricket-api) - The source of real-time cricket data used in this project.
-- **Schema for This Project**: [Database Schema](link-to-schema-document) - A detailed schema document outlining the tables and relationships used in this project.
+- **API Link**: [Cricbuzz Cricket API](https://rapidapi.com/cricketapilive/api/cricbuzz-cricket) - The source of real-time cricket data used in this project.
+- **Schema for This Project**: [Database Schema](https://github.com/Bhushan148/IPL-Scorecard-Points-Table-Dashboard/blob/main/Other%20Resource/Schema.pdf) - A detailed schema document outlining the tables and relationships used in this project.
 
 ## ✨ Features
 
